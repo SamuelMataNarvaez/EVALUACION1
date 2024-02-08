@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="user"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-02-08 04:25:16 p. m."/>
+        <attribute name="created" value="dXNlcjtERVNLVE9QLTlMRFMyVUo7MjAyNC0wMi0wODswNDoyNDoxMyBwLiBtLjsyOTg3"/>
+        <attribute name="edited" value="dXNlcjtERVNLVE9QLTlMRFMyVUo7MjAyNC0wMi0wODswNDoyNToxNiBwLiBtLjsxOzMwOTk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Hola mundo!!&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
